@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan Demirbozam</h1>
+<h1 align="center">Hi 👋, I'm Furkan Demirbozan</h1>
 <h3 align="center">An enthusiastic full-stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
